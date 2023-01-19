@@ -73,7 +73,7 @@ export const managers = [
   {
       //   "roster": 3,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "GoochMane",
-      "managerID": "39709451539292569",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+      "managerID": "397094515392925696",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": null, // (optional)
       "bio": null,
@@ -96,7 +96,7 @@ export const managers = [
 //   {
 //       //   "roster": 4,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
 //       "name": "HepDoongle",
-//       "managerID": "43087375498636083",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+//       "managerID": "430873754986360832",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
 //       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": null, // (optional)
 //       "bio": null,
@@ -119,7 +119,7 @@ export const managers = [
 //   {
 //       //   "roster": 5,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
 //       "name": "eagles0101",
-//       "managerID": "44197788781012172",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+//       "managerID": "441977887810121728",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
 //       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": null, // (optional)
 //       "bio": null,
@@ -142,7 +142,7 @@ export const managers = [
 //   {
 //       //   "roster": 6,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
 //       "name": "zackc1453",
-//       "managerID": "46541025889903820",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+//       "managerID": "465410258899038208",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
 //       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": null, // (optional)
 //       "bio": null,
@@ -165,7 +165,7 @@ export const managers = [
 //   {
 //       //   "roster": 7,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
 //       "name": "dirtygagan",
-//       "managerID": "46774867941601689",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+//       "managerID": "467748679416016896",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
 //       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": null, // (optional)
 //       "bio": null,
@@ -188,7 +188,7 @@ export const managers = [
 //   {
 //       //   "roster": 8,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
 //       "name": "goldententacle",
-//       "managerID": "47225502264249139",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+//       "managerID": "472255022642491392",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
 //       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": null, // (optional)
 //       "bio": null,
@@ -211,7 +211,7 @@ export const managers = [
 //   {
 //       //   "roster": 9,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
 //       "name": "mybadreligon",
-//       "managerID": "49595356360893644",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+//       "managerID": "495953563608936448",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
 //       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": null, // (optional)
 //       "bio": null,
@@ -234,7 +234,7 @@ export const managers = [
 //   {
 //       //   "roster": 10,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
 //       "name": "RyDoggJ2310",
-//       "managerID": "81325435745694105",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+//       "managerID": "813254357456941056",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
 //       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 //       "location": null, // (optional)
 //       "bio": null,
@@ -256,8 +256,8 @@ export const managers = [
 //     },
 //   {
 // //       //   "roster": 11,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-// //       "name": "TBD",
-// //       "managerID": "TBD",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+// //       "name": "huisleon",
+// //       "managerID": "568964329893363712",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
 // //       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 // //       "location": null, // (optional)
 // //       "bio": null,
@@ -278,8 +278,8 @@ export const managers = [
 // //       "preferredContact": "Sleeper", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
 // //     },
 //      //   "roster": 12,  // (DEPRECATED! Don't use this anymore) ID of the roster that the manager manages (look at the order of the power rankings graph)
-// //       "name": "TBD",
-// //       "managerID": "TBD",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
+// //       "name": "agarbacio",
+// //       "managerID": "737676057372733440",  // the user's manager ID, go to https://api.sleeper.app/v1/league/<your_league_id>/users to find user IDs (you can use older leagueIDs to find user IDs for managers that are no longer in the league)
 // //       "tookOver": null, // (optional) used if a manager took over a team, delete this line or change to null otherwise
 // //       "location": null, // (optional)
 // //       "bio": null,
