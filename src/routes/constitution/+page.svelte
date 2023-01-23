@@ -134,7 +134,7 @@
     
     <hr />
     
-    <h3 bind:this={one}>Section 1 Membership</h3>
+    <h3 bind:this={one}>Section 1: Membership</h3>
     
     <p>12 Members<p>
     
@@ -164,7 +164,7 @@
 
     <p>Trading of future first and/or second round draft picks will require payment for the year of the draft pick by the end of day two days after the trade is processed. Failure to do so will result in the transaction being reversed.</p>
     
-    <h2 class="sectionHeading" bind:this={two}>Section 2 League Make-Up</h2>
+    <h2 class="sectionHeading" bind:this={two}>Section 2: League Make-Up</h2>
     <p>The league will be a single conference of 12 teams ranking (for playoff seeding purposes) from best record to worst with tiebreaker decided by regular season points scored.</p>
 
     <h3 bind:this={twoOne}>2.1 Scheduling</h3>
@@ -174,7 +174,7 @@
     <p>6 teams will make the winners bracket as well as 6 teams will make the losers bracket. The 1 and 2 seeds will receive a bye while the 3 seed plays the 6 seed and the 4 seed plays the 5 seed.</p>
     <p>The same format will be used for the losers bracket. The losers bracket has no effect on draft order</p>
     
-    <h2 class="sectionHeading" bind:this={three}>Section 3 Winning Payments</h2>
+    <h2 class="sectionHeading" bind:this={three}>Section 3: Winning Payments</h2>
     <p>Payments are done via Leaguesafe<p>
     <p>Overall Winner Receives $800<p>
     <p>Second Overall Receives $300<p>
@@ -183,7 +183,7 @@
     <h3 bind:this={threeOne}>3.1 Scoring System</h3>
     <p>The league scoring system breakdown is listed on the Sleeper fantasy app (for the most part, it follows typical .5PPR Scoring). The scoring system will never change without a majority league vote.</p>
     
-    <h2 class="sectionHeading" bind:this={four}>Section 4 Rosters</h2>
+    <h2 class="sectionHeading" bind:this={four}>Section 4: Rosters</h2>
     
     <p>Starting line-ups will be as follows:</p>
     
@@ -209,7 +209,7 @@
     <h3 bind:this={fourOne}>4.1 Roster Issues</h3>
     <p>If a problem arises where one cannot set their line-ups on time due to website issues or connection issues they are required to notify the commissioner of this issue and submit their intended line-up at least 10 minutes before the start of the Sunday games. Failure to notify said parties will result in starting the line-up that is currently set.</p>
 
-    <h2 class="sectionHeading" bind:this={five}>Section 5 Scoring</h2>
+    <h2 class="sectionHeading" bind:this={five}>Section 5: Scoring</h2>
     
     <ul>
         <li>1 pt. every 10 yards rushing/receiving.<li>
@@ -222,7 +222,7 @@
         <li>It is possible to tie. For Tiebreakers for playoff seeding see above.</li>
     </ul>
     
-    <h2 class="sectionHeading" bind:this={six}>Section 6 Trades</h2>
+    <h2 class="sectionHeading" bind:this={six}>Section 6: Trades</h2>
     
     <p>All trades are processed immediately and only if TWO league members call for a vote, said trade be voted upon. A majority (6 out of 10) votes in favor of veto will result in the trade being voided. There is only a 24 hour window for the trades to be voted upon. Trading future picks will result in a full payment for the year of the pick.<p>
     <p>The trade deadline will take place at the conclusion of week 12.<p>
@@ -230,10 +230,10 @@
     <h3 bind:this={sixOne}>6.1 Removing Managers</h3>
     <p>Offseason Trades will be allowed once trading opens back up at the conclusion of the entire season. During the offseason, a league member has up to a week to call for a veto vote, and this vote has up to a week to be processed.</p>
     
-    <h2 class="sectionHeading" bind:this={seven}>Section 7 Waiver Wire</h2>
+    <h2 class="sectionHeading" bind:this={seven}>Section 7: Waiver Wire</h2>
     <p>The waiver wire will be FAAB Bidding. There will be separate FAAB allocations for the in season and off season. You will be reset to 200 dollars on FAAB starting after the final week of preseason. During the season players will be places on waivers for 2 days following their release. Once a player has played their game for the week they will remain on waivers until waivers process for the following week on WEDNESDAY at 12am PST. After the conclusion of the league championship game, FAAB allocation will be reset to 200 dollars. The waiver wire will process once a week during the offseason on SUNDAY, after the conclusion of the rookie draft. Players acquired and released within 24 hours will not be subject to waiver requirements.</p>
     
-    <h2 class="sectionHeading" bind:this={eight}>Section 8 Draft</h2>
+    <h2 class="sectionHeading" bind:this={eight}>Section 8: Draft</h2>
     <p>There will be an 8 hour limit for the initial draft. The draft time limit will be removed at 10 PM EST but you will still be able to pick. Draft clock will resume at 9 AM EST.  It is good etiquette to type in the chat who is On the Clock (OTC) in the chat tagging the person. The annual rookie drafts will begin a few weeks after the NFL draft. Rookie drafts will start without a timer and need for a timer can be evaluated as the draft progresses.</p>
     
     <h3 bind:this={eightOne}>8.1 Rookie Draft</h3>
@@ -242,7 +242,7 @@
     <p>2. Max Possible Points For</p>
     <p>3. Coin Flip (or equivalent random generation)</p>
 
-    <h2 class="sectionHeading" bind:this={nine}>Section 9 Modifying League Charter</h2>
+    <h2 class="sectionHeading" bind:this={nine}>Section 9: Modifying League Charter</h2>
     <p>The league charter can be modified for the following year during the regular season. All proposed changes will be voted upon by the league and need a majority to take hold. i.e. League changes in the 2021 regular season take place in the 2022 season.</p>
     
 </div>
