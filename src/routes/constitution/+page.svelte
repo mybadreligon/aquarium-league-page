@@ -142,23 +142,23 @@
     
     <p>The Aquarium will be a dynasty league where all players are held from one year to the next.<p>
     
-    <h2 bind:this={oneTwo}>1.2 Owner Responsibility</h2>
+    <h3 bind:this={oneTwo}>1.2 Owner Responsibility</h3>
     
     <p>Each owner(s) is expected to run their team in a respectable fashion. They will be expected to set their line-ups on time and not have any injured players or players on bye weeks in their starting line-ups. If any owner neglects his duty constantly, he will be locked from his team and the commissioner will set their line-up to the most projected points for one week. If negligence continues they will be subjected to be voted (6 out of 11 votes needed) to be removed from the league and will NOT receive their money back.</p>
     
-    <h2 bind:this={oneThree}>1.3 Tanking and Collusion</h2>
+    <h3 bind:this={oneThree}>1.3 Tanking and Collusion</h3>
     
     <p>Tanking will not be tolerated in this dynasty league. If an owner is seen to be purposely tanking, they will be forced to draft last in the upcoming rookie draft and FORFEIT any traded picks back to the original owner of these draft picks. Tanking is defined as purposely losing by starting players that are injured, on a bye, or starting multiple players that OBVIOUSLY should not be in a starting line-up. The word “tanking” is flexible and the owner will be forced to explain why he started said player if brought up by MULTIPLE league members.</p>
 
     <p>Collusion will not be tolerated in this dynasty league. If two or more owners are found to be guilty of collusion league members, they will be subject to possibility of expulsion from the league as well as moves being reset. There will be no sharing fees or winnings or trading actual currency for any players.</p>
     
-    <h2 bind:this={oneFour}>1.4 League Commissioner</h2>
+    <h3 bind:this={oneFour}>1.4 League Commissioner</h3>
     
     <p>Currently, the league commissioner is goldententacle. He is supported by co-comissioners JBackes33 and mybadreligon. Each year, if proposed by a league member the league can vote on a change in commissioner. As commissioner, you will not overstep your balance of power and only be forced to vacate your duties if the league calls for a vote.</p>
 
     <p>If a vote is called taken, a vote of 6 out of 11 will vacate the commissioner of their duties.</p>
     
-    <h2 bind:this={oneFive}>1.5 League Dues and Treasury</h2>
+    <h3 bind:this={oneFive}>1.5 League Dues and Treasury</h3>
     
     <p>Currently, the league buy-in fee is $100 USD (subject to change in future) and must be sent to LeagueSafe before the rookie draft takes place each year. The initial start-up will be $200 sent before the draft. Please send money to LeagueSafe. If the fee is not deposited before the start of the rookie draft,  the owner will not have access to their team until the fee has been paid. Refusal to pay will result in expulsion from the league. After the initial year, managers will be responsible for paying for the current year and the following year, regardless of pick trading.</p>
 
