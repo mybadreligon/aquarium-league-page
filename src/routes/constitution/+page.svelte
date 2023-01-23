@@ -127,7 +127,7 @@
     <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: Waiver Wire</h3>
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(eight)}>Section 8: Draft</h3>
-        <h4 class="noUnderscore clickable" on:click={() => goToSection(eightOne)}>Section 8.1: Rookie Draft</h3>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(eightOne)}>Section 8.1: Rookie Draft</h4>
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(nine)}>Section 9: Modifying League Charter</h3>
 
