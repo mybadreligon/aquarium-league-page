@@ -8,7 +8,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 /*   STEP 2   */
 export const homepageText = `
   <p>"The Aquarium" dynasty fantasy football league was formed in 2021. A band of misfit redditors with crippling gambling addictions with nothing better to do (shoutout to COVID-19) searched the desolate halls of r/findaleague for an ounce of enjoyment. What they found instead was...at least two ounces! </p>
-  <p>The startup draft was an instant reminder of what we had all signed up for, a monetary commitment to internet strangers with questionable morals. There were ups and downs; we witnessed the rise and fall (mostly fall) of a Phillies legend, his ride or die partner who just couldn't bear the shame of remaining in the league, divorces and divorce lawyers, house fires and teams build like a house of cards, and the draft pick collecting goblin who shall not be named.</p>
+  <p>The startup draft was an instant reminder of what we had all signed up for, a monetary commitment to internet strangers with questionable morals. There were ups and downs; we witnessed the rise and fall (mostly fall) of a Phillies legend, his ride or die partner who just couldn't bear the shame of remaining in the league; divorces and divorce lawyers; house fires and teams built like a house of cards; and the draft pick collecting goblin who shall not be named.</p>
   <p>The league now carries on ad infinitum. We know not where its name came from, but that it is definitely a name.</p>
   <p>Welcome to The Aquarium</p>
 `;
