@@ -134,11 +134,11 @@
     
     <hr />
     
-    <h3 bind:this={one}>Section 1: Membership</h3>
+    <h2 bind:this={one}>Section 1: Membership</h2>
     
     <p>12 Members<p>
     
-    <h2 bind:this={oneOne}>1.1 Franchise Agreement</h2>
+    <h3 bind:this={oneOne}>1.1 Franchise Agreement</h3>
     
     <p>The Aquarium will be a dynasty league where all players are held from one year to the next.<p>
     
