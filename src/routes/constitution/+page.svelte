@@ -33,12 +33,12 @@
     }
 
     h2 {
+        text-decoration: underline;
         font-size: 1.5em;
         line-height: 1.2em;
     }
 
     h3 {
-        text-decoration: underline;
         font-size: 1.3em;
         line-height: 1.2em;
     }
@@ -117,19 +117,17 @@
     <h3 class="noUnderscore clickable" on:click={() => goToSection(three)}>Section 3: Winning Payments</h3>
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(four)}>Section 4: Rosters</h3>
-    
         <h4 class="noUnderscore clickable" on:click={() => goToSection(fourOne)}>4.1 Roaster Issues</h4>
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(five)}>Section 5: Scoring</h3>
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(six)}>Section 6: Trades</h3>
-    
         <h4 class="noUnderscore clickable" on:click={() => goToSection(sixOne)}>6.1 Offseason Trades</h4>
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(seven)}>Section 7: Waiver Wire</h3>
 
     <h3 class="noUnderscore clickable" on:click={() => goToSection(eight)}>Section 8: Draft</h3>
-    <h3 class="noUnderscore clickable" on:click={() => goToSection(eightOne)}>Section 8.1: Rookie Draft</h3>
+        <h4 class="noUnderscore clickable" on:click={() => goToSection(eightOne)}>Section 8.1: Rookie Draft</h3>
     
     <h3 class="noUnderscore clickable" on:click={() => goToSection(nine)}>Section 9: Modifying League Charter</h3>
 
